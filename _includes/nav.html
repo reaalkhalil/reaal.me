@@ -1,0 +1,7 @@
+  <nav class="masthead-nav">
+    {% for nav in site.nav %}
+	<a href="{{ nav.href }}" class="{{ nav.name }} {% if page.url contains nav.href %}current{% endif %}">{{ nav.name }}</a>
+    {% endfor %}
+	{% include contact.html %}
+  </nav>
+

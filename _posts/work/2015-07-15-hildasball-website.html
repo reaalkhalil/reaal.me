@@ -1,0 +1,16 @@
+---
+layout: post
+title: St. Hilda's College Ball 2015 Website
+type: post
+published: true
+status: publish
+category: work
+---
+Here are some screenshots from the website for the 2015 St. Hilda's College Ball:<br>
+Most of the work I did on this was the backend, the frontend was a joint effort.
+{% for i in (1..6) %}
+<a target="_blank" href="{{ site.baseurl }}/assets/work/hildasball{{ forloop.index }}.png">
+<img src="{{ site.baseurl }}/assets/work/hildasball{{ forloop.index }}.png">
+</a>
+{% endfor %}
+

@@ -1,0 +1,15 @@
+---
+layout: post
+title: Oxford Law Society Website
+type: post
+published: true
+status: publish
+category: work
+---
+Here are some screenshots from the Oxford Law Society website that I built:<br>
+{% for i in (1..7) %}
+<a target="_blank" href="{{ site.baseurl }}/assets/work/lawsoc{{ forloop.index }}.png">
+<img src="{{ site.baseurl }}/assets/work/lawsoc{{ forloop.index }}.png">
+</a>
+{% endfor %}
+

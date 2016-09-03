@@ -1,0 +1,15 @@
+---
+layout: post
+title: Oxford Engineering Society Website
+type: post
+published: true
+status: publish
+category: work
+---
+Here are some screenshots from the Oxford Engineering Society website that I built:<br>
+{% for i in (1..6) %}
+<a target="_blank" href="{{ site.baseurl }}/assets/work/engsoc{{ forloop.index }}.png">
+<img src="{{ site.baseurl }}/assets/work/engsoc{{ forloop.index }}.png">
+</a>
+{% endfor %}
+

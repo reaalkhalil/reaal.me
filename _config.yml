@@ -1,0 +1,42 @@
+# Basic
+name:               "Reaal"
+
+# URL
+baseurl:            ""
+#baseurl:            "" #For Root Domain
+permalink:          :categories/:title.html
+# Markdown
+markdown:           kramdown
+
+# Navigation
+nav:
+  - name:           "about"
+    href:           "/about"
+  - name:           "blog"
+    href:           "/blog"
+  - name:           "work"
+    href:           "/work"
+  - name:           "r&eacute;sum&eacute;"
+    href:           "/cv.pdf"
+
+# Sass
+sass:
+  style:            :compressed
+
+
+include: ["_pages"]
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
