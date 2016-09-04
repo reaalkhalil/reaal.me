@@ -1,0 +1,15 @@
+#container{margin-left:auto;margin-right:auto;width:820px; background-color:#fff;}
+         #header{padding:10px;}   
+            #content{padding:10px;padding-top:0px;}   
+            #footer{padding:10px;}   
+            #copy{color:#fff;padding:0px;margin:0px;margin-top:-5px;width:800px;background-color: #000;align-content: center;}
+            #copystatement{padding:10px;padding-left:100px;width:600px;margin:0px auto;}
+        a{color: #0bf;text-decoration: none;}
+        a:hover{color: #0bf;text-decoration: underline;}
+		body { padding:10px;background-color:#ddd;font-family:open sans,helvetica neue,helvetica,arial,sans-serif;font-weight: 300;}
+		#buttons{ padding:0px;margin:0px;margin-top:7px;width:800px;background-color: #000;}
+        #buttons ul{list-style: none;padding:0px;margin:0px;}
+		#buttons ul li{color:#fff;display:inline-block;padding: 10px;padding-left: 40px;padding-right: 40px;}
+		#buttons ul li:hover{color:#000;background-color: #ff0;}
+.playit li{color:#000;background-color: #d00;}
+.playit{}
