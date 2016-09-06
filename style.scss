@@ -483,3 +483,32 @@ tbody tr:nth-child(odd) th {
     }
 }
 
+
+a.file{
+  display: inline-block;
+  text-align: center;
+  width: 150px;
+  padding-bottom: 20px;
+  padding-top: 150px;
+  margin: 10px;
+  font-weight: normal;
+  color: #000 !important;
+  border-radius: 20px;
+  background-size: 130px 130px;
+  background-repeat: no-repeat;
+  background-position: center 10px;
+  border: 5px solid rgba(0,0,0,0);
+  line-height: 20px;
+}
+a.file:hover{
+  border: 5px solid rgba(0,100,255,0.5);
+}
+a.file.file-pdf{
+	background-image: url({{ site.baseurl }}/img/files/pdf.png);
+}
+a.file.file-zip{
+	background-image: url({{ site.baseurl }}/img/files/zip.png);
+}
+a.file.file-video{
+	background-image: url({{ site.baseurl }}/img/files/video.png);
+}
