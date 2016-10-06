@@ -3,7 +3,8 @@ name:               "Reaal"
 
 # URL
 baseurl:            ""
-#baseurl:            "" #For Root Domain
+url:                "https://reaal.me"
+enforce_ssl:        "reaal.me"
 permalink:          :categories/:title.html
 # Markdown
 markdown:           kramdown
