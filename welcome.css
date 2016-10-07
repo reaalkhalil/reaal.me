@@ -265,7 +265,7 @@ font-size:36px;
 	width:320px;
 	margin-left:calc(50% - 160px);
 		left:0px;
-		top:80px;
+		top:40px;
 	font-size:48px;
 color:#fff;
 	}
@@ -273,13 +273,17 @@ color:#fff;
 color:#fff;
 }
 	#menu{
-color:#fff;
+		color:#fff;
 		text-align:center;
 		right:0px;
 		left:0px;
-		top:250px;
-		width: auto;
+		top:0px;
+		bottom:0px;
+		margin: auto;
+		height: 250px;
+		width: 250px;
 		padding:0px;
+		padding-top:80px;
 	}
 	#menu li a{
 color:#fff;
