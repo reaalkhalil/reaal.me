@@ -3,7 +3,7 @@ title: Bunny&Spoon
 category: blog
 ---
 
-[Bunny and Spoon](http://bunnyandspoon.com) is a food blog I made for Audrey. It's weird, she refers to herself as "The Bunny" <img src="{{ site.baseurl }}/assets/blog/bands/bunny.png" class="inlineImg" height="20">  on there, but it's cute. It was fun and I learnt a lot making it, I hope she'll use it often.
+[Bunny and Spoon](http://bunnyandspoon.com) is a food blog I made for Audrey. It's weird, she refers to herself as "The Bunny" on there, but it's cute. It was fun and I learnt a lot making it, I hope she'll use it often. As an asside, I used [Affinity Designer](https://affinity.serif.com/designer/) to make this bunny: <img src="{{ site.baseurl }}/assets/blog/bands/bunny.png" class="inlineImg" height="20">, it's a wonderful app by a wonderful company. They actually strive to make good software, not just line their pockets like some other companies out there \**cough*\* Adobe \**cough*\*. The price is extremely reasonable so I went ahead and bought a copy. Here's a screenshot of Bunny and Spoon:
 
 ![]({{ site.baseurl }}/assets/blog/bands/scr0.png)
 
