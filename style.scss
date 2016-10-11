@@ -282,6 +282,12 @@ img {
   border-radius: 5px;
 }
 
+img.inlineImg {
+	margin: 0px;
+	display: inline-block !important;
+  border-radius: 0px;
+}
+
 table {
   margin-bottom: 1rem;
   width: 100%;
