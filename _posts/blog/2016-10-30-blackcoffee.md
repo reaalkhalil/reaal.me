@@ -27,10 +27,10 @@ If you want to mess around with .htaccess, directory index and stuff, look for t
 Now if you put your files in `/Library/WebServer/Documents/` you can see them on `localhost` in the browser. Tada!
 
 
-I've included a zip of the site, it contains four stages of building the site:
-1. Plain HTML
-2. Styled with CSS
-3. Added a slideshow with JS
-4. Added a form with PHP.
+I've included a zip of the site, it contains four stages of building the site:<br>
+1. Plain HTML<br>
+2. Styled with CSS<br>
+3. Added a slideshow with JS<br>
+4. Added a form with PHP.<br>
 
 <a href="/assets/blog/codesoc/blackcoffee.zip" target="_blank" class="file file-zip">blackcoffee.zip</a>
