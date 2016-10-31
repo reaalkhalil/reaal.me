@@ -17,6 +17,8 @@ nav:
     href:           "/blog"
   - name:           "work"
     href:           "/work"
+  - name:           "lab"
+    href:           "https://lab.reaal.me/"
   - name:           "r&eacute;sum&eacute;"
     href:           "/cv.pdf"
 
